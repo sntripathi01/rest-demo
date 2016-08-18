@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RestServiceApp {
 
 	public static void main(String[] args) {
-		
 		System.out.println("=================Service started begin============");
 		System.out.println("=================Service started begin============");
 		System.out.println("=================Service started begin============");
