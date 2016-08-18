@@ -1,0 +1,7 @@
+---
+name: rest-service
+path: ./build/libs/rest-demo-1.0.jar
+memory: 252M
+instances: 1
+timeout: 180
+
